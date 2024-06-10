@@ -10,7 +10,7 @@ This repository is the official implementation of **AID: Adapting Image2Video Di
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://chenhsing.github.io/AID/) [![arXiv](https://img.shields.io/badge/arXiv-2311.18837-b31b1b.svg)](https://arxiv.org/abs/2311.18837)
 
 <p align="center">
-<img src="overview.jpg" width="1080px"/>  
+<img src="pipeline.png" width="1080px"/>  
 <br>
 <em>AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction.</em>
 </p>
