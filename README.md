@@ -7,7 +7,7 @@ This repository is the official implementation of **AID: Adapting Image2Video Di
 [Zhen Xing](https://chenhsing.github.io/) , [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zejia Weng, [Zuxuan Wu](https://zxwu.azurewebsites.net/), [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN)
 <br/>
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://chenhsing.github.io/AID/) [![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/2406.06465)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://chenhsing.github.io/AID/) [![arXiv](https://img.shields.io/badge/arXiv-2406.06465-b31b1b.svg)](https://arxiv.org/abs/2406.06465)
 
 <p align="center">
 <img src="pipeline.png" width="1080px"/>  
