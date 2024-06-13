@@ -1,6 +1,6 @@
 # AID
 
-This repository is the official implementation of **AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**.
+This repository is the official implementation of **AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**. （We will release the code  once the paper is accepted!）
 
 **[AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction](https://arxiv.org/abs/2406.06465)**
 <br/>
